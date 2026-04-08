@@ -1,5 +1,3 @@
-package trainconsist;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -27,7 +25,7 @@ import java.util.List;
  * @version 1.0
  */
 
-public class UseCase1TrainConsist {
+public class UseCase1TrainConsistMgmt {
 
     public static void main(String[] args) {
 
